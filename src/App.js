@@ -17,6 +17,8 @@ function App() {
         >
           Learn React
         </a>
+
+        <h2>new feature added 4.00am</h2>
       </header>
     </div>
   );
