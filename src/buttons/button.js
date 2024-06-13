@@ -17,12 +17,10 @@ function App() {
         >
           Learn React
         </a>
-
-        <h2>new feature added 4.00am</h2>
       </header>
-    <h2>feature button complete</h2>
     </div>
   );
 }
-
+<h2>login feature completed</h2>
 export default App;
+<h2>forgot password</h2>
