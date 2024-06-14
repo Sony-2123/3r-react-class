@@ -87,3 +87,8 @@ When you change any of the information in the branch range, the Commit and Files
 
 --------------------------------------------------------
 june13 14task
+
+Repeat the class 
+2. React.dev check first 4 sections in describing UI 
+3. How to write code without JSX
+4. Git push based on the branches
