@@ -1,6 +1,6 @@
 
 
-
+import React from "react"
 
 const Heading1=()=>{
     return(
@@ -12,9 +12,11 @@ const Heading1=()=>{
 export default Heading1
  export const Heading2=()=>{
     return(
-        <div>
+        <React. Fragment>
+     
             <h2>H1 heading......</h2>
-        </div>
+            </React. Fragment>
+       
     )
 }
 
